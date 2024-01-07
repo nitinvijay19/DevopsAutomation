@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-08T01:31:07 IST" name="Suite" finished-at="2024-01-08T01:31:21 IST" duration-ms="14042">
+    <groups>
+    </groups>
+    <test started-at="2024-01-08T01:31:07 IST" name="Test" finished-at="2024-01-08T01:31:21 IST" duration-ms="14042">
+      <class name="testMaven.MavenJava.SeleniumATest">
+        <test-method signature="getData()[pri:0, instance:testMaven.MavenJava.SeleniumATest@6fe7aac8]" started-at="2024-01-08T01:31:07 IST" name="getData" finished-at="2024-01-08T01:31:21 IST" duration-ms="14011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+      </class> <!-- testMaven.MavenJava.SeleniumATest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

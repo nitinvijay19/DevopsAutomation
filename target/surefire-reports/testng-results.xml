@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-26T16:45:52 IST" name="Suite" finished-at="2022-02-26T16:45:52 IST" duration-ms="46">
+    <groups>
+    </groups>
+    <test started-at="2022-02-26T16:45:52 IST" name="Test" finished-at="2022-02-26T16:45:52 IST" duration-ms="46">
+      <class name="testMaven.MavenJava.AppiumTest">
+        <test-method signature="IOSApps()[pri:0, instance:testMaven.MavenJava.AppiumTest@7692d9cc]" started-at="2022-02-26T16:45:52 IST" name="IOSApps" finished-at="2022-02-26T16:45:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method signature="androidApps()[pri:0, instance:testMaven.MavenJava.AppiumTest@7692d9cc]" started-at="2022-02-26T16:45:52 IST" name="androidApps" finished-at="2022-02-26T16:45:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- androidApps -->
+      </class> <!-- testMaven.MavenJava.AppiumTest -->
+      <class name="testMaven.MavenJava.SeleniumATest">
+        <test-method signature="browserTest()[pri:0, instance:testMaven.MavenJava.SeleniumATest@7fc2413d]" started-at="2022-02-26T16:45:52 IST" name="browserTest" finished-at="2022-02-26T16:45:52 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTest -->
+        <test-method signature="elementsUI()[pri:0, instance:testMaven.MavenJava.SeleniumATest@7fc2413d]" started-at="2022-02-26T16:45:52 IST" name="elementsUI" finished-at="2022-02-26T16:45:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- testMaven.MavenJava.SeleniumATest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
